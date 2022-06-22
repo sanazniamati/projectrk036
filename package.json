@@ -2,7 +2,13 @@
   "name": "projectrk036",
   "version": "0.1.0",
   "private": true,
-  "description": "How to draw fill part on top of the stroke",
+  "keywords": [
+    "react",
+    "react-konva",
+    "Rect","Text",
+    "events"
+  ],
+  "description": "to detect drag and drop events with React-Konva",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
